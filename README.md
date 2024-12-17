@@ -9,7 +9,7 @@ Hippo is a Telegram Airdrop application. Built using web technologies like TypeS
 
 ## Demo
 
-Check out the live demo of the project here: [Hippo Demo](https://mostafadx.github.io/hippo)
+Check out the live demo of the project here: [Hippo Demo](https://mostafadx.github.io/Hippo)
 
 ## Technologies Used
 
